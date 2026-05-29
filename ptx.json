@@ -1,0 +1,12 @@
+{
+    "name": "pxt-vga",
+    "description": "Simple VGA extension for micro:bit",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "public": true
+}
